@@ -64,7 +64,7 @@ if success:
 else:
     print("seh bar talash kardi va vared nashoodi")
 
-    secret = "5678"
+    secret = "8907"
     max_guesses = 10
 
     print("bazi hads shooroe shood")
